@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Diagnóstico de Artrite com RBC</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Diagnóstico de Artrite por RBC</h1>
+
+      <div class="form-section">
+        <h2>Caso</h2>
+        <div id="novo-caso-form" class="grid"></div>
+      </div>
+
+      <div class="form-section">
+        <h2>Pesos dos Atributos</h2>
+        <div id="pesos-form" class="grid"></div>
+      </div>
+      <div class="buttons">
+        <button class="btn-diagnosticar" onclick="diagnosticar()">
+          Diagnosticar
+        </button>
+        <button class="btn-limpar" onclick="limpar()">Limpar</button>
+
+        <button
+          id="btn-download"
+          class="btn-download"
+          onclick="baixarBaseDeCasos()"
+          style="display: none"
+        >
+          Baixar Base de Casos
+        </button>
+      </div>
+ 
+      <div class="results-section">
+        <h2>Saída</h2>
+        <div class="table-wrapper">
+          <table id="tabela-resultados">
+            <thead>
+              <tr>
+                <th>Caso</th>
+                <th>DL</th>
+                <th>RC</th>
+                <th>DC</th>
+                <th>Mob</th>
+                <th>DTS</th>
+                <th>IL</th>
+                <th>ER</th>
+                <th>TCSE</th>
+                <th>ART</th>
+                <th>RM</th>
+                <th>Bur</th>
+                <th>Tof</th>
+                <th>Sin</th>
+                <th>ATG</th>
+                <th>NR</th>
+                <th>HLA-B27</th>
+                <th>DJ</th>
+                <th>Diagnóstico</th>
+                <th>Similaridade</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

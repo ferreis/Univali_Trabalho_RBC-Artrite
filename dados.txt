@@ -1,0 +1,58 @@
+1;sim;sim;sim;limitado;sim;ausente;moderado;moderado;nao;nao;nao;nao;nao;nao;nao;0;nao;Espondilite Anquilosante
+2;nao;nao;nao;normal;nao;ausente;moderado;nao;sim;nao;nao;nao;nao;sim;nao;0,5;nao;Artrite_de_gota
+3;nao;nao;nao;limitado;nao;ausente;moderado;nao;nao;nao;nao;sim;nao;sim;nao;0,5;nao;Artrite_de_gota
+4;nao;nao;nao;normal;nao;moderado;importante;moderado;nao;nao;nao;nao;nao;sim;nao;0,5;nao;Artrite_Reumatica
+5;nao;nao;nao;limitado;nao;muito_importante;muito_importante;importante;sim;nao;nao;sim;sim;sim;nao;0,5;nao;Artrite_de_gota
+6;nao;nao;nao;limitado;nao;moderado;muito_importante;nao;sim;nao;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+7;sim;nao;sim;normal;sim;moderado;importante;importante;nao;nao;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+8;sim;sim;sim;limitado;sim;moderado;importante;nao;nao;nao;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+9;nao;nao;nao;limitado;nao;muito_importante;ausente;nao;sim;nao;nao;nao;sim;sim;nao;0,5;nao;Artrite_de_gota
+10;nao;nao;nao;limitado;nao;importante;ausente;leve;sim;sim;nao;nao;sim;sim;nao;0;nao;Artrite_Reumatica
+11;sim;nao;nao;normal;nao;leve;muito_importante;nao;nao;nao;nao;nao;nao;nao;nao;0;nao;Espondilite Anquilosante
+12;nao;nao;nao;normal;nao;leve;importante;nao;sim;sim;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+13;sim;nao;nao;normal;nao;moderado;ausente;nao;sim;nao;nao;nao;sim;sim;nao;1;nao;Espondilite Anquilosante
+14;nao;nao;nao;limitado;nao;importante;ausente;moderado;sim;sim;nao;nao;sim;sim;nao;0,5;sim;Artrite_Reumatica
+15;sim;sim;nao;normal;sim;ausente;moderado;leve;nao;sim;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+16;sim;nao;sim;normal;nao;ausente;importante;nao;nao;nao;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+17;nao;nao;nao;normal;nao;importante;ausente;nao;nao;nao;sim;nao;nao;sim;sim;0,5;nao;Artrite_Reumatica
+18;sim;sim;nao;normal;nao;leve;importante;importante;nao;nao;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+19;nao;nao;nao;limitado;nao;moderado;moderado;moderado;sim;nao;nao;nao;nao;sim;nao;0,5;nao;Artrite_de_gota
+20;nao;nao;nao;limitado;nao;importante;importante;moderado;sim;nao;sim;sim;sim;sim;nao;0,5;nao;Artrite_de_gota
+21;nao;nao;nao;normal;nao;importante;importante;nao;sim;sim;sim;sim;nao;sim;nao;0,5;nao;Artrite_de_gota
+22;sim;sim;nao;normal;sim;ausente;importante;importante;nao;sim;nao;nao;nao;sim;nao;1;nao;Espondilite Anquilosante
+23;nao;nao;nao;normal;nao;importante;moderado;nao;sim;nao;sim;sim;sim;sim;nao;0,5;nao;Artrite_de_gota
+24;nao;nao;nao;limitado;nao;moderado;ausente;nao;nao;nao;sim;sim;nao;nao;nao;0,5;nao;Artrite_de_gota
+25;nao;nao;nao;normal;nao;importante;importante;nao;sim;nao;nao;nao;sim;sim;nao;0;nao;Artrite_Reumatica
+26;nao;nao;nao;limitado;nao;importante;moderado;moderado;sim;nao;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+27;sim;nao;nao;normal;nao;moderado;importante;nao;nao;nao;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+28;nao;nao;nao;limitado;nao;ausente;ausente;nao;sim;nao;nao;nao;sim;sim;nao;0;nao;Artrite_Reumatica
+29;sim;sim;nao;limitado;sim;leve;importante;nao;nao;sim;nao;nao;nao;nao;nao;0;nao;Espondilite Anquilosante
+30;nao;nao;nao;limitado;nao;importante;moderado;nao;sim;sim;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+31;sim;sim;nao;limitado;nao;importante;moderado;nao;nao;nao;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+32;sim;nao;nao;normal;nao;ausente;moderado;moderado;nao;nao;nao;nao;nao;sim;nao;0,5;nao;Artrite_de_gota
+33;nao;nao;nao;limitado;nao;moderado;moderado;nao;sim;sim;sim;sim;sim;sim;nao;0,5;nao;Artrite_de_gota
+34;sim;sim;nao;limitado;sim;importante;muito_importante;importante;sim;sim;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+35;nao;nao;nao;limitado;nao;muito_importante;ausente;moderado;sim;sim;nao;nao;sim;sim;sim;0,5;nao;Artrite_Reumatica
+36;nao;nao;nao;limitado;nao;leve;moderado;nao;sim;nao;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+37;nao;nao;nao;normal;nao;nao;nao;nao;nao;nao;nao;nao;nao;nao;nao;nao;nao;nao
+38;nao;nao;nao;limitado;nao;moderado;moderado;nao;sim;nao;nao;sim;nao;sim;nao;0,5;nao;Artrite_de_gota
+39;sim;sim;sim;limitado;nao;moderado;muito_importante;moderado;sim;nao;nao;nao;nao;sim;nao;1;sim;Espondilite Anquilosante
+40;nao;nao;nao;normal;nao;leve;importante;nao;sim;nao;nao;sim;sim;sim;nao;0,5;nao;Artrite_de_gota
+41;sim;nao;nao;normal;nao;ausente;moderado;moderado;nao;nao;nao;nao;nao;sim;nao;1;nao;Espondilite Anquilosante
+42;sim;sim;nao;normal;nao;ausente;ausente;nao;nao;sim;nao;nao;nao;sim;nao;0,5;nao;Artrite_Reumatica
+43;sim;sim;sim;normal;nao;ausente;importante;nao;nao;nao;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+44;sim;nao;nao;normal;sim;moderado;importante;nao;nao;sim;nao;nao;nao;nao;nao;1;nao;Espondilite Anquilosante
+45;nao;nao;nao;limitado;nao;leve;importante;nao;sim;sim;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+46;nao;nao;nao;limitado;nao;leve;moderado;nao;sim;sim;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+47;nao;nao;nao;limitado;nao;moderado;importante;nao;sim;nao;nao;nao;sim;sim;nao;0,5;nao;Artrite_Reumatica
+48;nao;nao;nao;normal;nao;importante;importante;nao;nao;sim;nao;nao;nao;sim;nao;0,5;nao;Artrite_Reumatica
+49;sim;nao;nao;normal;nao;leve;importante;nao;sim;nao;nao;nao;sim;sim;nao;0,5;nao;Artrite_de_gota
+50;nao;nao;nao;normal;nao;moderado;importante;nao;nao;sim;nao;nao;nao;sim;nao;0,5;nao;Artrite_Reumatica
+51;sim;sim;sim;limitado;sim;ausente;moderado;moderado;nao;nao;nao;nao;nao;nao;nao;0.5;nao;Espondilite Anquilosante
+52;sim;sim;sim;limitado;nao;ausente;muito_importante;moderado;sim;nao;nao;nao;nao;nao;sim;0.5;sim;Espondilite Anquilosante
+53;nao;nao;nao;normal;nao;ausente;muito_importante;moderado;sim;sim;nao;sim;nao;sim;sim;1;sim;Artrite_de_gota
+54;sim;sim;nao;normal;nao;muito_importante;moderado;moderado;nao;nao;nao;nao;sim;sim;nao;0.5;nao;Artrite_de_gota
+55;sim;nao;sim;limitado;nao;muito_importante;muito_importante;nao;sim;sim;sim;sim;nao;nao;sim;0.5;sim;Espondilite Anquilosante
+56;sim;nao;sim;limitado;nao;muito_importante;muito_importante;nao;sim;sim;sim;sim;nao;nao;sim;1;sim;Artrite_de_gota
+57;sim;sim;sim;limitado;sim;ausente;moderado;moderado;nao;nao;nao;nao;nao;nao;nao;0.5;nao;Espondilite Anquilosante
+58;sim;sim;sim;limitado;sim;ausente;moderado;moderado;nao;nao;nao;nao;nao;nao;nao;0.5;nao;Espondilite Anquilosante
